@@ -19,3 +19,7 @@ Day 1 — Setup complete
    Pydantic raises ValidationError with "Field required". Caller catches.
 
 ## Sample résumés processed: 3 / 3 successful
+## Day 4 — Productivity sprint
+
+**Company:** IBM
+**Time:** 45 minutes
